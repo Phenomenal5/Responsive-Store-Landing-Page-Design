@@ -1,0 +1,169 @@
+.product {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.8rem;
+    margin: 5rem auto;
+    width: 1200px;
+    .product-card {
+    }
+        button:hover:{
+            cursor: pointer;
+        }
+    }
+    .product-card {
+        background: #1b2734;
+    }
+    .product-card:hover {
+        box-shadow: 0px 0px 20px #1b2734;
+    }
+
+@media (max-width: 320px) {
+    #product-box {
+        background: rgb(210, 210, 212);
+    }
+    .product-card {
+        background: darkgrey;
+    }
+    #hero {
+        font-size: 1.5rem;
+        text-align: center;
+        h1{
+            font-size: 3rem;
+        }
+    }
+    #about {
+        background: gray;
+        color: black;
+        font-size: 1.5rem;
+        img {
+            width: 100%;
+            
+        }
+        h2 {
+                font-size: 3rem;
+            }
+    }
+    #footernav {
+        display: none;
+    }
+    #contact {
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 576px) {
+    #product-box {
+        background: rgb(210, 210, 212);
+    }
+    .product-card {
+        background: darkgrey;
+    }
+    #hero {
+        font-size: 1.5rem;
+        text-align: center;
+        h1{
+            font-size: 3rem;
+        }
+    }
+    #about {
+        background: gray;
+        color: black;
+        font-size: 1.5rem;
+        img {
+            width: 100%;
+            
+        }
+        h2 {
+                font-size: 3rem;
+            }
+    }
+    #footernav {
+        display: none;
+    }
+    #contact {
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+    #product-box {
+        background: rgb(210, 210, 212);
+    }
+    .product-card {
+        background: blueviolet;
+    }
+    #
+    #hero {
+        font-size: 1.5rem;
+        h1{
+            font-size: 3rem;
+        }
+    }
+    #about {
+        background: url(../res/about.jpg) no-repeat center;
+        background-size: cover;
+        color: grey;
+        font-size: 2rem;
+        h2 {
+            font-size: 3rem;
+        }
+        img {
+            width: 100%;
+        }
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    #product-box {
+        background: rgb(210, 210, 212);
+    }
+    .product-card {
+        background: peachpuff;
+    }
+    #hero {
+        font-size: 1.5rem;
+        h1{
+            font-size: 3rem;
+        }
+    }
+    #about {
+        background: url(../res/about.jpg) no-repeat center;
+        background-size: cover;
+        color: grey;
+        font-size: 2rem;
+        h2 {
+            font-size: 3rem;
+        }
+        img {
+            width: 100%;
+        }
+    }
+}
+
+@media (min-width: 992px) {
+    .product-card {
+        background: none;
+    }
+    #hero {
+        font-size: 1.5rem;
+        h1{
+            font-size: 3rem;
+        }
+    }
+    #about {
+        background: url(../res/about.jpg) no-repeat center;
+        background-size: cover;
+        color: rgb(94, 94, 94);
+        font-size: 2rem;
+        h2 {
+            font-size: 3rem;
+        }
+        img {
+            width: 100%;
+        }
+    }
+}
+

@@ -1,0 +1,2 @@
+Brief description of the design choices made during the development process.
+The project comprises a Bootstrap framework and normal CSS. Bootstrap was used for the framework, while CSS was used for the responsiveness of the webpage, making it fit in different screen sizes.
