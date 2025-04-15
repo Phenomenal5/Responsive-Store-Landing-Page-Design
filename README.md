@@ -1,10 +1,10 @@
-# 🍽️ Responsive Restaurant Website Design
+# 🍽️ Responsive Store Landing Page Design
 
 ## 📌 Project Overview
 
 This project is a **responsive webpage** designed for a fictional restaurant, utilizing **Bootstrap** and its **grid system** to create a visually appealing and user-friendly website. It features a **header**, **hero section**, **menu display**, **about us section**, **contact form**, and **footer**, ensuring optimal display across desktop, tablet, and mobile devices.
 
-🔗 [Live Preview](https://phenomenal5.github.io/Responsive-Website-for-Fictional-Restaurant/)
+🔗 [Live Preview](https://phenomenal5.github.io/Responsive-Store-Landing-Page-Design/)
 
 ---
 
